@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import { ReactiveBase } from '@appbaseio/reactivesearch';
+import './App.css'
+
 class Main extends React.Component {
   render() {
     return (
